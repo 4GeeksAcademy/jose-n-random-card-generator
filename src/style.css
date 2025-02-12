@@ -1,5 +1,32 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
 body{
-    background: blue;
+    background-color: green;
+}
+
+.number-center{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    font-size: xx-large;
+}
+
+.card{
+    font-size: xx-large;
+}
+
+.spade{
+    color: black;
+}
+
+
+.club{
+    color: black;
+} 
+
+.heart{
+    color: red;
+} 
+
+.diamond{
+    color: red;
 }
